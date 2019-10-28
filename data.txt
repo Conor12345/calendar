@@ -1,4 +1,4 @@
-Mon 14th October
+Mon 4th November
 08:40-09:10
 Mr R Fraser
 RegistrationQB2
@@ -9,18 +9,75 @@ Further MathsQ Room 17
 Mr M Fitzsimons
 Further MathsQ Room 26
 11:10-12:00
-Mr S Paget
-Computer ScienceW IT3
+Miss F Elliott
+PhysicsQB4
 12:00-12:50
-Mr S Paget
-Computer ScienceW IT3
+Dr T Brunt
+PhysicsQQ4
 14:05-14:20
 Mr R Fraser
 RegistrationQB2
 14:20-15:10
-Miss F Elliott
+Mr S Paget
+Computer ScienceW IT3
+Tue 5th November
+08:40-09:10
+Mr R Fraser
+RegistrationQB2
+09:10-10:00
+Mr S Paget
+Computer ScienceW IT3
+10:00-10:50
+Mr S Paget
+Computer ScienceW IT3
+12:00-12:50
+Mr M Fitzsimons
+Further MathsQ Room 26
+14:05-14:20
+Mr R Fraser
+RegistrationQB2
+14:20-15:10
+Mr D Gratrick
+Further MathsQ Room 25
+15:10-16:00
+Dr T Brunt
 PhysicsQQ4
-Tue 15th October
+Wed 6th November
+08:40-09:10
+Mr R Fraser
+RegistrationQB2
+09:10-10:00
+Mr M Fitzsimons
+Further MathsQ Room 26
+10:00-10:50
+Mr M Fitzsimons
+Further MathsQ Room 26
+11:10-12:00
+Miss F Elliott
+PhysicsQB4
+12:00-12:50
+Dr T Brunt
+PhysicsQQ4
+Thu 7th November
+08:40-09:10
+Mr R Fraser
+RegistrationQB2
+09:10-10:00
+Mr D Gratrick
+Further MathsQ Room 25
+10:00-10:50
+Mr T Lister
+Further MathsQ Room 17
+11:10-12:00
+Mr M Lassey
+Computer ScienceW IT1
+12:00-12:50
+Mr M Lassey
+Computer ScienceW IT1
+14:05-14:20
+Mr R Fraser
+RegistrationQB2
+Tue 12th November
 08:40-09:10
 Mr R Fraser
 RegistrationQB2
@@ -42,7 +99,7 @@ RegistrationQB2
 15:10-16:00
 Mr S Paget
 Computer ScienceW IT3
-Wed 16th October
+Wed 13th November
 08:40-09:10
 Mr R Fraser
 RegistrationQB2
@@ -59,15 +116,12 @@ Computer ScienceW IT1
 Mr M Lassey
 Computer ScienceW IT1
 14:05-14:20
-Mr R Everett
 QED
 14:20-15:10
-Mr R Everett
 QED
 15:10-16:00
-Mr R Everett
 QED
-Thu 17th October
+Thu 14th November
 08:40-09:10
 Mr R Fraser
 RegistrationQB2
@@ -89,7 +143,7 @@ RegistrationQB2
 15:10-16:00
 Mr R Fraser
 Form ProgQQ2
-Fri 18th October
+Fri 15th November
 08:40-09:10
 Mr R Fraser
 RegistrationQB2
@@ -114,3 +168,509 @@ Further MathsQ Room 26
 15:10-16:00
 Mr M Lassey
 Computer ScienceW IT1
+Mon 18th November
+08:40-09:10
+Mr R Fraser
+RegistrationQB2
+09:10-10:00
+Mr T Lister
+Further MathsQ Room 17
+10:00-10:50
+Mr M Fitzsimons
+Further MathsQ Room 26
+11:10-12:00
+Miss F Elliott
+PhysicsQB4
+12:00-12:50
+Dr T Brunt
+PhysicsQQ4
+14:05-14:20
+Mr R Fraser
+RegistrationQB2
+14:20-15:10
+Mr S Paget
+Computer ScienceW IT3
+Tue 19th November
+08:40-09:10
+Mr R Fraser
+RegistrationQB2
+09:10-10:00
+Mr S Paget
+Computer ScienceW IT3
+10:00-10:50
+Mr S Paget
+Computer ScienceW IT3
+12:00-12:50
+Mr M Fitzsimons
+Further MathsQ Room 26
+14:05-14:20
+Mr R Fraser
+RegistrationQB2
+14:20-15:10
+Mr D Gratrick
+Further MathsQ Room 25
+15:10-16:00
+Dr T Brunt
+PhysicsQQ4
+Wed 20th November
+08:40-09:10
+Mr R Fraser
+RegistrationQB2
+09:10-10:00
+Mr M Fitzsimons
+Further MathsQ Room 26
+10:00-10:50
+Mr M Fitzsimons
+Further MathsQ Room 26
+11:10-12:00
+Miss F Elliott
+PhysicsQB4
+12:00-12:50
+Dr T Brunt
+PhysicsQQ4
+14:05-14:20
+QED
+14:20-15:10
+QED
+15:10-16:00
+QED
+Thu 21st November
+08:40-09:10
+Mr R Fraser
+RegistrationQB2
+09:10-10:00
+Mr D Gratrick
+Further MathsQ Room 25
+10:00-10:50
+Mr T Lister
+Further MathsQ Room 17
+11:10-12:00
+Mr M Lassey
+Computer ScienceW IT1
+12:00-12:50
+Mr M Lassey
+Computer ScienceW IT1
+14:05-14:20
+Mr R Fraser
+RegistrationQB2
+Fri 22nd November
+08:40-09:10
+Mr R Fraser
+RegistrationQB2
+10:00-10:50
+Mr M Lassey
+Computer ScienceW IT1
+11:10-12:00
+Mr D Gratrick
+Further MathsQ Room 25
+12:00-12:50
+Mr D Gratrick
+Further MathsQ Room 25
+14:05-14:20
+Mr R Fraser
+RegistrationQB2
+14:20-15:10
+Mr T Lister
+Further MathsQ Room 17
+15:10-16:00
+Miss F Elliott
+PhysicsQB4
+Mon 25th November
+08:40-09:10
+Mr R Fraser
+RegistrationQB2
+09:10-10:00
+Mr T Lister
+Further MathsQ Room 17
+10:00-10:50
+Mr M Fitzsimons
+Further MathsQ Room 26
+11:10-12:00
+Mr S Paget
+Computer ScienceW IT3
+12:00-12:50
+Mr S Paget
+Computer ScienceW IT3
+14:05-14:20
+Mr R Fraser
+RegistrationQB2
+14:20-15:10
+Miss F Elliott
+PhysicsQQ4
+Tue 26th November
+08:40-09:10
+Mr R Fraser
+RegistrationQB2
+09:10-10:00
+Miss F Elliott
+PhysicsQB4
+10:00-10:50
+Miss F Elliott
+PhysicsQB4
+11:10-12:00
+Mr D Gratrick
+Further MathsQ Room 25
+12:00-12:50
+Mr T Lister
+Further MathsQ Room 17
+14:05-14:20
+Mr R Fraser
+RegistrationQB2
+15:10-16:00
+Mr S Paget
+Computer ScienceW IT3
+Wed 27th November
+08:40-09:10
+Mr R Fraser
+RegistrationQB2
+09:10-10:00
+Mr M Fitzsimons
+Further MathsQ Room 26
+10:00-10:50
+Mr M Fitzsimons
+Further MathsQ Room 26
+11:10-12:00
+Mr M Lassey
+Computer ScienceW IT1
+12:00-12:50
+Mr M Lassey
+Computer ScienceW IT1
+14:05-14:20
+QED
+14:20-15:10
+QED
+15:10-16:00
+QED
+Thu 28th November
+08:40-09:10
+Mr R Fraser
+RegistrationQB2
+09:10-10:00
+Mr T Lister
+Further MathsQ Room 17
+10:00-10:50
+Mr D Gratrick
+Further MathsQ Room 25
+11:10-12:00
+Dr T Brunt
+PhysicsQQ4
+12:00-12:50
+Dr T Brunt
+PhysicsQQ4
+14:05-14:20
+Mr R Fraser
+RegistrationQB2
+15:10-16:00
+Mr R Fraser
+Form ProgQQ2
+Fri 29th November
+08:40-09:10
+Mr R Fraser
+RegistrationQB2
+09:10-10:00
+Mr M Beresford
+PhysicsQB3
+10:00-10:50
+Dr T Brunt
+PhysicsQQ4
+11:10-12:00
+Mr D Gratrick
+Further MathsQ Room 25
+12:00-12:50
+Mr D Gratrick
+Further MathsQ Room 25
+14:05-14:20
+Mr R Fraser
+RegistrationQB2
+14:20-15:10
+Mr M Fitzsimons
+Further MathsQ Room 26
+15:10-16:00
+Mr M Lassey
+Computer ScienceW IT1
+Mon 2nd December
+08:40-09:10
+Mr R Fraser
+RegistrationQB2
+09:10-10:00
+Mr T Lister
+Further MathsQ Room 17
+10:00-10:50
+Mr M Fitzsimons
+Further MathsQ Room 26
+11:10-12:00
+Miss F Elliott
+PhysicsQB4
+12:00-12:50
+Dr T Brunt
+PhysicsQQ4
+14:05-14:20
+Mr R Fraser
+RegistrationQB2
+14:20-15:10
+Mr S Paget
+Computer ScienceW IT3
+Tue 3rd December
+08:40-09:10
+Mr R Fraser
+RegistrationQB2
+09:10-10:00
+Mr S Paget
+Computer ScienceW IT3
+10:00-10:50
+Mr S Paget
+Computer ScienceW IT3
+12:00-12:50
+Mr M Fitzsimons
+Further MathsQ Room 26
+14:05-14:20
+Mr R Fraser
+RegistrationQB2
+14:20-15:10
+Mr D Gratrick
+Further MathsQ Room 25
+15:10-16:00
+Dr T Brunt
+PhysicsQQ4
+Wed 4th December
+08:40-09:10
+Mr R Fraser
+RegistrationQB2
+09:10-10:00
+Mr M Fitzsimons
+Further MathsQ Room 26
+10:00-10:50
+Mr M Fitzsimons
+Further MathsQ Room 26
+11:10-12:00
+Miss F Elliott
+PhysicsQB4
+12:00-12:50
+Dr T Brunt
+PhysicsQQ4
+14:05-14:20
+QED
+14:20-15:10
+QED
+15:10-16:00
+QED
+Thu 5th December
+08:40-09:10
+Mr R Fraser
+RegistrationQB2
+09:10-10:00
+Mr D Gratrick
+Further MathsQ Room 25
+10:00-10:50
+Mr T Lister
+Further MathsQ Room 17
+11:10-12:00
+Mr M Lassey
+Computer ScienceW IT1
+12:00-12:50
+Mr M Lassey
+Computer ScienceW IT1
+14:05-14:20
+Mr R Fraser
+RegistrationQB2
+Fri 6th December
+08:40-09:10
+Mr R Fraser
+RegistrationQB2
+10:00-10:50
+Mr M Lassey
+Computer ScienceW IT1
+11:10-12:00
+Mr D Gratrick
+Further MathsQ Room 25
+12:00-12:50
+Mr D Gratrick
+Further MathsQ Room 25
+14:05-14:20
+Mr R Fraser
+RegistrationQB2
+14:20-15:10
+Mr T Lister
+Further MathsQ Room 17
+15:10-16:00
+Miss F Elliott
+PhysicsQB4
+Mon 9th December
+08:40-09:10
+Mr R Fraser
+RegistrationQB2
+09:10-10:00
+Mr T Lister
+Further MathsQ Room 17
+10:00-10:50
+Mr M Fitzsimons
+Further MathsQ Room 26
+11:10-12:00
+Mr S Paget
+Computer ScienceW IT3
+12:00-12:50
+Mr S Paget
+Computer ScienceW IT3
+14:05-14:20
+Mr R Fraser
+RegistrationQB2
+14:20-15:10
+Miss F Elliott
+PhysicsQQ4
+Tue 10th December
+08:40-09:10
+Mr R Fraser
+RegistrationQB2
+09:10-10:00
+Miss F Elliott
+PhysicsQB4
+10:00-10:50
+Miss F Elliott
+PhysicsQB4
+11:10-12:00
+Mr D Gratrick
+Further MathsQ Room 25
+12:00-12:50
+Mr T Lister
+Further MathsQ Room 17
+14:05-14:20
+Mr R Fraser
+RegistrationQB2
+15:10-16:00
+Mr S Paget
+Computer ScienceW IT3
+Wed 11th December
+08:40-09:10
+Mr R Fraser
+RegistrationQB2
+09:10-10:00
+Mr M Fitzsimons
+Further MathsQ Room 26
+10:00-10:50
+Mr M Fitzsimons
+Further MathsQ Room 26
+11:10-12:00
+Mr M Lassey
+Computer ScienceW IT1
+12:00-12:50
+Mr M Lassey
+Computer ScienceW IT1
+14:05-14:20
+QED
+14:20-15:10
+QED
+15:10-16:00
+QED
+Thu 12th December
+08:40-09:10
+Mr R Fraser
+RegistrationQB2
+09:10-10:00
+Mr T Lister
+Further MathsQ Room 17
+10:00-10:50
+Mr D Gratrick
+Further MathsQ Room 25
+11:10-12:00
+Dr T Brunt
+PhysicsQQ4
+12:00-12:50
+Dr T Brunt
+PhysicsQQ4
+14:05-14:20
+Mr R Fraser
+RegistrationQB2
+15:10-16:00
+Mr R Fraser
+Form ProgQQ2
+Fri 13th December
+08:40-09:10
+Mr R Fraser
+RegistrationQB2
+09:10-10:00
+Mr M Beresford
+PhysicsQB3
+10:00-10:50
+Dr T Brunt
+PhysicsQQ4
+11:10-12:00
+Mr D Gratrick
+Further MathsQ Room 25
+12:00-12:50
+Mr D Gratrick
+Further MathsQ Room 25
+14:05-14:20
+Mr R Fraser
+RegistrationQB2
+14:20-15:10
+Mr M Fitzsimons
+Further MathsQ Room 26
+15:10-16:00
+Mr M Lassey
+Computer ScienceW IT1
+Mon 16th December
+08:40-09:10
+Mr R Fraser
+RegistrationQB2
+09:10-10:00
+Mr T Lister
+Further MathsQ Room 17
+10:00-10:50
+Mr M Fitzsimons
+Further MathsQ Room 26
+11:10-12:00
+Miss F Elliott
+PhysicsQB4
+12:00-12:50
+Dr T Brunt
+PhysicsQQ4
+14:05-14:20
+Mr R Fraser
+RegistrationQB2
+14:20-15:10
+Mr S Paget
+Computer ScienceW IT3
+Tue 17th December
+08:40-09:10
+Mr R Fraser
+RegistrationQB2
+09:10-10:00
+Mr S Paget
+Computer ScienceW IT3
+10:00-10:50
+Mr S Paget
+Computer ScienceW IT3
+12:00-12:50
+Mr M Fitzsimons
+Further MathsQ Room 26
+14:05-14:20
+Mr R Fraser
+RegistrationQB2
+14:20-15:10
+Mr D Gratrick
+Further MathsQ Room 25
+15:10-16:00
+Dr T Brunt
+PhysicsQQ4
+Wed 18th December
+08:40-09:10
+Mr R Fraser
+RegistrationQB2
+09:10-10:00
+Mr M Fitzsimons
+Further MathsQ Room 26
+10:00-10:50
+Mr M Fitzsimons
+Further MathsQ Room 26
+11:10-12:00
+Miss F Elliott
+PhysicsQB4
+12:00-12:50
+Dr T Brunt
+PhysicsQQ4
+14:05-14:20
+QED
+14:20-15:10
+QED
+15:10-16:00
+QED
