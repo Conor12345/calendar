@@ -1,4 +1,4 @@
-from bdateutil import parser
+from dateutil import parser
 
 year = "2019"
 
